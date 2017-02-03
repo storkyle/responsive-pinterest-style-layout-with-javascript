@@ -4,11 +4,11 @@ This script helps you build a page that is as responsive as pinterest site.
 
 ##Object Properties
 This Object was defined with five properties:
- 	- column_count: the maximun number of column available
-	- column_width: width of column
-	- space: distance between two columns
-	- container: id (or class name) of container tag
-	- pin_tag: class name of article tags
+- column_count: the maximun number of column available
+- column_width: width of column
+- space: distance between two columns
+- container: id (or class name) of container tag
+- pin_tag: class name of article tags
 
 
 ##Definition
