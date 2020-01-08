@@ -18,8 +18,8 @@ The following example also creates a new PinterestStyle object with five propert
 var pinStyle = new PinterestStyle({
 	column_count: 4					// 4 column
 ,	column_width: 250				// 250 px
-,	space: 14						// 14 px
-, 	container: '#main-content'		// id of container tag
+,	space: 14					// 14 px
+, 	container: '#main-content'			// id of container tag
 ,	pin_tag: '._tag'				// class name of article tags
 });
 ```
